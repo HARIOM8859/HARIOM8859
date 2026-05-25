@@ -12,7 +12,7 @@
 💻 Passionate about Software Development & Machine Learning  
 🚀 Building Java, Python & ML Projects  
 🌱 Currently Learning Spring Boot & Full Stack Development  
-📚 Solving DSA Problems on LeetCode  
+📚 Solving DSA Problems on TUF+(Indian)
 ⚡ Goal: Become a Skilled Software Engineer
 
 ---
